@@ -201,4 +201,4 @@ This repository serves as the official landing page for Horizon Forbidden West -
 **Get the most recent version of Horizon Forbidden West - Burning Shores today!**
 
 ---
-**Last updated:** 2026-11-11 22:26:34 UTC
+**Last updated:** 2026-11-12 03:33:59 UTC
